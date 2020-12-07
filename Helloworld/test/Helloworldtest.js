@@ -1,3 +1,4 @@
+const Helloworld = artifacts.require('Helloworld');
 const truffleAssert = require('truffle-assertions');
 
 
