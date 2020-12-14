@@ -9,7 +9,6 @@ $(document).ready(function() {
             { from: accounts[2] }
         );
         console.log(contractInstance);
-        console.log("yatta");
 
         $("#add_data_button").click();
         function inputData() {
